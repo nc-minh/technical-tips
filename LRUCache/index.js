@@ -28,7 +28,7 @@ class LRUCache {
 			return value;
 		}
 
-		return -1;
+		return null;
 	}
 
 	getCache() {
