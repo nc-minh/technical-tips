@@ -1,1 +1,3 @@
 # technical-tips
+
+- BigO Notation
